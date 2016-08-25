@@ -20,6 +20,7 @@
 		885751821D6EC6170000B019 /* PresentController.m in Sources */ = {isa = PBXBuildFile; fileRef = 885751811D6EC6170000B019 /* PresentController.m */; };
 		885751851D6EC6550000B019 /* WSPresentAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 885751841D6EC6550000B019 /* WSPresentAnimation.m */; };
 		885751871D6EC9730000B019 /* pic1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 885751861D6EC9730000B019 /* pic1.jpg */; };
+		88F7E53A1D6EDF0A00BD654B /* 123.gif in Resources */ = {isa = PBXBuildFile; fileRef = 88F7E5391D6EDF0A00BD654B /* 123.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		885751831D6EC6550000B019 /* WSPresentAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSPresentAnimation.h; sourceTree = "<group>"; };
 		885751841D6EC6550000B019 /* WSPresentAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSPresentAnimation.m; sourceTree = "<group>"; };
 		885751861D6EC9730000B019 /* pic1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic1.jpg; sourceTree = "<group>"; };
+		88F7E5391D6EDF0A00BD654B /* 123.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 123.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				885751521D6EC2F10000B019 /* Assets.xcassets */,
 				885751541D6EC2F10000B019 /* LaunchScreen.storyboard */,
 				885751571D6EC2F10000B019 /* Info.plist */,
+				88F7E5391D6EDF0A00BD654B /* 123.gif */,
 				885751861D6EC9730000B019 /* pic1.jpg */,
 				885751461D6EC2F10000B019 /* Supporting Files */,
 			);
@@ -275,6 +278,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				885751871D6EC9730000B019 /* pic1.jpg in Resources */,
+				88F7E53A1D6EDF0A00BD654B /* 123.gif in Resources */,
 				885751561D6EC2F10000B019 /* LaunchScreen.storyboard in Resources */,
 				885751531D6EC2F10000B019 /* Assets.xcassets in Resources */,
 				885751511D6EC2F10000B019 /* Main.storyboard in Resources */,
